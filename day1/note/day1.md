@@ -60,6 +60,7 @@
  + MVVM是前端视图层的概念，主要关注于 视图层分离，也就是说：MVVM把前端的视图层，分为了 三部分 Model, View , VM ViewModel
 
  + 为什么有了MVC还要有MVVM
+ - 实现双向绑定 vm层
 
 
 
